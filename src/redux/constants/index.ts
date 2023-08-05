@@ -1,0 +1,8 @@
+export const ActionTypes = {
+
+  GET_USER_BY_NAME: 'GET_USER_BY_NAME',
+  GET_FOLLOWING: 'GET_FOLLOWING',
+  GET_FOLLOWERS: 'GET_FOLLOWERS',
+  RESET: 'RESET',
+
+};
