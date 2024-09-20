@@ -7,4 +7,3 @@ Around 4:11 pm (WAT), I began the process of creating screens and connecting the
 The entire project was completed within a span of 9 hours, with the final completion time being at 12:02 am on August 5, 2023 (WAT).
 
 
-PS: The src folder i thought i uploaded it earlier, didn't know it wasn't added during the upload. I just noticed and uploaded it again hence the reason the date it was uploaded is different from the rest. I'm very sorry about this. Thanks
